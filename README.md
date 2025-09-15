@@ -26,8 +26,8 @@ This project performs real-time object detection on a video using the YOLOv8 mod
 1. **Clone the repository**:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/ayhmdalila/traffic-detection
+cd traffic-detection
 ```
 2. **Install dependencies**:
 ```bash
