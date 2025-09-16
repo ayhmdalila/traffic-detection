@@ -1,11 +1,11 @@
-# YOLOv8 Object Detection on Video
-This project performs real-time object detection on a video using the YOLOv8 model with GPU acceleration. The processed video with bounding boxes and confidence scores is saved as an output file.
+# YOLOv11n Object Detection on Video
+This project performs real-time object detection on a video using the YOLOv11n model with GPU acceleration. The processed video with bounding boxes and confidence scores is saved as an output file.
 
 ![Result](https://github.com/ayhmdalila/traffic-detection/blob/main/results.gif)
 
 ## Features
 
-- Detect objects in a video using YOLOv8.
+- Detect objects in a video using YOLOv11n.
 - GPU acceleration with PyTorch.
 - Draw bounding boxes with labels and confidence scores.
 - Save processed video.
